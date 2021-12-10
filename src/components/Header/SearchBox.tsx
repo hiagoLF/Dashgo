@@ -4,8 +4,6 @@ import {
   RiSearchLine,
 } from "react-icons/ri";
 
-// import { Container } from './styles';
-
 const SearchBox: React.FC = () => {
   return (
     <Flex
